@@ -32,6 +32,7 @@ To prove the framework's mathematical accuracy, I recreated the classic **LeNet-
 **Results:**
 The custom engine successfully trained the network, avoiding vanishing gradients and dead ReLUs via He/Xavier initialization, reaching **~94.6% Accuracy** in just 20 epochs.
 
+![Alt Text](Screenshot 2026-03-12 185750.png)
 
 ## 🛠️ How to Build and Run
 
