@@ -8,5 +8,5 @@
 # Ignore Dataset Files (Too large for GitHub)
 *-ubyte
 
-# Ignore Saved Models (Optional, but good practice if they get large)
+# Ignore Saved Models
 *.model
