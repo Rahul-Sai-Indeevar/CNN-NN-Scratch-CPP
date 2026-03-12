@@ -12,7 +12,7 @@ int main()
     NeuralNetwork nn;
     std::cout << "Loading model...\n";
 
-    // 1. Load the model saved
+    // 1. Load the saved model
     nn.load("lenet5_mnist.model");
 
     // 2. Load one image to test
