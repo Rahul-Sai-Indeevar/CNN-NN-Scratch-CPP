@@ -1,0 +1,12 @@
+# Ignore Executables
+*.exe
+*.out
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Dataset Files (Too large for GitHub)
+*-ubyte
+
+# Ignore Saved Models (Optional, but good practice if they get large)
+*.model
