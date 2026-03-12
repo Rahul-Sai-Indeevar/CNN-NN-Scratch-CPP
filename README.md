@@ -42,9 +42,9 @@ git clone https://github.com/YourUsername/DeepLearning-CPP-Scratch.git
 cd DeepLearning-CPP-Scratch
 ```
 **2. Download MNIST Dataset**
-Download the binary dataset files from Yann LeCun's website and extract them into the root directory:
-train-images.idx3-ubyte
-train-labels.idx1-ubyte
+Download the binary dataset files from Yann [LeCun's website](http://yann.lecun.com/exdb/mnist/) and extract them into the root directory:
+- train-images.idx3-ubyte
+- train-labels.idx1-ubyte
 
 **3. Compile with GCC & OpenMP**
 ```bash
