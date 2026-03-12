@@ -1,4 +1,3 @@
-// --- REPLACE Layer.h ---
 #ifndef LAYER_H
 #define LAYER_H
 
