@@ -14,6 +14,7 @@ A high-performance, object-oriented Deep Learning framework built entirely from 
 * **Optimizers:** Custom implementations of **Adam**, **RMSProp**, and **Momentum** optimizations.
 * **Performance:** Leverages **OpenMP** for multi-threaded CPU matrix operations, drastically reducing training time.
 * **Persistence:** Polymorphic serialization system to save and load trained models to binary files.
+* **Flexibility:** Can implement both Neural Network and CNN with user's choice of architecture.
 
 ## 🧠 Model Benchmark: LeNet-5 on MNIST
 
