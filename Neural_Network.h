@@ -98,7 +98,7 @@ public:
         {
             gradient = layers[i]->backward(gradient);
         }
-        // Note: Updates happen INSIDE backward() for Conv2D/Dense.
+        // Updates happen INSIDE backward() for Conv2D/Dense.
     }
 
     void save(const std::string &filename)
