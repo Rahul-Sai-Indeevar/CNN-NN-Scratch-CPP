@@ -6,7 +6,7 @@
 
 A high-performance, object-oriented Deep Learning framework built entirely from scratch in C++. This project does **not** rely on any external ML libraries (like TensorFlow, PyTorch, or Eigen). It implements backpropagation, multi-dimensional tensor convolutions, and gradient descent algorithms purely from first principles.
 
-## 🚀 Features
+## Features
 
 * **Modular Architecture:** Designed with OOP principles (Polymorphism/Inheritance) allowing layers to be stacked dynamically (e.g., `nn.add(new Conv2D(...))`).
 * **Computer Vision:** Full support for Convolutional Neural Networks (CNNs), including `Conv2D`, `MaxPooling`, `AveragePooling`, and `Flatten` layers.
@@ -16,7 +16,7 @@ A high-performance, object-oriented Deep Learning framework built entirely from 
 * **Persistence:** Polymorphic serialization system to save and load trained models to binary files.
 * **Flexibility:** Can implement both Neural Network and CNN with user's choice of architecture.
 
-## 🧠 Model Benchmark: LeNet-5 on MNIST
+## Model Benchmark: LeNet-5 on MNIST
 
 To prove the framework's mathematical accuracy, I recreated the classic **LeNet-5** architecture to classify the MNIST handwritten digit dataset. 
 
@@ -36,7 +36,7 @@ The custom engine successfully trained the network, avoiding vanishing gradients
 <img width="640" height="922" alt="Screenshot 2026-03-12 185750" src="https://github.com/user-attachments/assets/08ea8f66-8c4c-4658-bfaf-957dba85291e" />
 
 
-## 🛠️ How to Build and Run
+## How to Build and Run
 
 **1. Clone the repository**
 ```bash
