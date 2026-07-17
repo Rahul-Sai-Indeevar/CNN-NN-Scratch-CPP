@@ -40,8 +40,8 @@ The custom engine successfully trained the network, avoiding vanishing gradients
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/YourUsername/DeepLearning-CPP-Scratch.git
-cd DeepLearning-CPP-Scratch
+git clone https://github.com/Rahul-Sai-Indeevar/CNN-NN-Scratch-CPP.git
+cd CNN-NN-Scratch-CPP
 ```
 **2. Download MNIST Dataset**
 Download the binary dataset files from Yann [LeCun's website](http://yann.lecun.com/exdb/mnist/) and extract them into the root directory:
